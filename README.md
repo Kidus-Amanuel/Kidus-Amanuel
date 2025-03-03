@@ -1,6 +1,6 @@
 <!-- Banner Section -->
 <p align="center">
-  <img src="https://via.placeholder.com/1200x300.png?text=Kidus+Amanuel" alt="Kidus Amanuel Banner" width="100%">
+  <img src="https://img.freepik.com/free-vector/gradient-abstract-fluid-technology-facebook-cover_23-2149077303.jpg?t=st=1741010205~exp=1741013805~hmac=d1b3ed5334840e0c6e4df1e06ff9da4302345f946223d943a4f5e7e91bdb9253&w=1060" alt="Kidus Amanuel Banner" width="100%">
 </p>
 
 <!-- Greeting -->
